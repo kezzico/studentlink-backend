@@ -29,6 +29,6 @@ start the application
 
 ## RELEASE
 
-Submit a pull request from MAIN to RELEASE to ship code to production.
+Submit a pull request from `main` to `release` to ship code to production.
 
 
