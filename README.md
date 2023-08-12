@@ -23,6 +23,9 @@ install the dependencies in requirements.txt
 activate the virtual environment if you have not already.
 `source venv/bin/activate`
 
+create an .env file
+`cp env.sample .env`
+
 start the application
 `python flaskapp.py`
 
